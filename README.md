@@ -7,7 +7,7 @@
 </h1>
 
 <h4 align="center">🚀 Welcome to my GitHub universe! 🚀</h4>
-<h2 align="center">👋 I'm Zohaib, a passionate MERN stack and Wordpress developer, and coding enthusiast from Pakistan!</h2>
+<h2 align="center">👋 I'm Zohaib, a passionate Full stack developer and AI Engineer, and coding enthusiast from Pakistan!</h2>
 
 <br/>
 
@@ -16,7 +16,7 @@
 <img align="right" width="250" alt="Coding" src="https://github.com/SaxenaShourya/SaxenaShourya/assets/143955797/3ac3278b-8a5e-46f1-9f9e-c01e3ee3874a" />
 
 <p align="left"> 
-🌟 Passionate MERN and Wordrpress Developer 🚀
+🌟 Passionate full stack Developer and AI engineer🚀
 </p>
 <p align="left"> 
 🎨 Creative Tech and AI Enthusiast 💡
